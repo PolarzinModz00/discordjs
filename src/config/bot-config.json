@@ -1,8 +1,8 @@
 {
-  "name": "Bot name",
-  "status": "Bot status",
-  "statusType": "Bot status type, either 'PLAYING', 'LISTENING' or 'WATCHING'",
-  "token": "",
+  "name": "Polar Bot",
+  "status": "Estou sendo configurado, aguarde.",
+  "statusType": "WATCHING",
+  "token": "OTUxMjYzNDQ2NjYwNDQ4MjU2.Yik7Hw.ygNJIw9WO_eLxgtreDWDdeuL3Mg",
   "intents": [
     "GUILDS",
     "GUILD_MESSAGES"
